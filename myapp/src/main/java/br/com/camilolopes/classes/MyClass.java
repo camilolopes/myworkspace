@@ -5,6 +5,8 @@ public class MyClass {
 	private tring lastname;
 	
 	public void test(){
+	}
+}
 		
 	
 	
