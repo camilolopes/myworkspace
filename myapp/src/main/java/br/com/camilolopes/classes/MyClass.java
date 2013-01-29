@@ -2,7 +2,7 @@ package br.com.camilolopes.classes;
 
 public class MyClass {
 	private String name;
-	private tring lastname;
+	private String lastname;
 	
 	public void test(){
 	}
