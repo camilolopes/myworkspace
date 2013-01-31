@@ -2,5 +2,5 @@ package br.com.camilolopes.classes;
 
 public class StoreMatrix {
 	private String name; 
-	private String Address; 
+	private tring Address; 
 }
