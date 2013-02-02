@@ -1,0 +1,37 @@
+#surefire
+#Fri Feb 01 23:56:17 BRST 2013
+testClassesDirectory=D\:\\GitRepositorioJava\\myworkspace\\POC\\target\\test-classes
+classPathUrl.4=C\:\\Users\\camilolopes\\.m2\\repository\\org\\jboss\\logging\\jboss-logging\\3.1.0.GA\\jboss-logging-3.1.0.GA.jar
+classPathUrl.3=C\:\\Users\\camilolopes\\.m2\\repository\\antlr\\antlr\\2.7.7\\antlr-2.7.7.jar
+classPathUrl.2=C\:\\Users\\camilolopes\\.m2\\repository\\org\\hibernate\\hibernate-core\\4.1.9.Final\\hibernate-core-4.1.9.Final.jar
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\GitRepositorioJava\\myworkspace\\POC\\target\\classes
+reportsDirectory=D\:\\GitRepositorioJava\\myworkspace\\POC\\target\\surefire-reports
+classPathUrl.0=D\:\\GitRepositorioJava\\myworkspace\\POC\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\GitRepositorioJava\\myworkspace\\POC\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\camilolopes\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=C\:\\Users\\camilolopes\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.1\\surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=D\:\\GitRepositorioJava\\myworkspace\\POC\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+classPathUrl.12=C\:\\Users\\camilolopes\\.m2\\repository\\javax\\faces\\jsf-api\\2.1\\jsf-api-2.1.jar
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.11=C\:\\Users\\camilolopes\\.m2\\repository\\commons-logging\\commons-logging\\1.1.1\\commons-logging-1.1.1.jar
+classPathUrl.10=C\:\\Users\\camilolopes\\.m2\\repository\\org\\springframework\\spring-core\\3.2.1.RELEASE\\spring-core-3.2.1.RELEASE.jar
+classPathUrl.9=C\:\\Users\\camilolopes\\.m2\\repository\\org\\hibernate\\common\\hibernate-commons-annotations\\4.0.1.Final\\hibernate-commons-annotations-4.0.1.Final.jar
+classPathUrl.8=C\:\\Users\\camilolopes\\.m2\\repository\\org\\hibernate\\javax\\persistence\\hibernate-jpa-2.0-api\\1.0.1.Final\\hibernate-jpa-2.0-api-1.0.1.Final.jar
+classPathUrl.7=C\:\\Users\\camilolopes\\.m2\\repository\\dom4j\\dom4j\\1.6.1\\dom4j-1.6.1.jar
+childDelegation=false
+classPathUrl.6=C\:\\Users\\camilolopes\\.m2\\repository\\org\\jboss\\spec\\javax\\transaction\\jboss-transaction-api_1.1_spec\\1.0.0.Final\\jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+classPathUrl.5=C\:\\Users\\camilolopes\\.m2\\repository\\org\\javassist\\javassist\\3.17.1-GA\\javassist-3.17.1-GA.jar
